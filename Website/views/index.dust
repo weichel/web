@@ -1,0 +1,101 @@
+{>"layouts/main"/}
+
+{<title}{title}{/title}
+
+
+{<html_body}
+
+
+    <div id='content'> 
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+		This is my index.dust main body {title}  </br>
+	</div>
+	
+	
+	
+{/html_body}
+
+
+

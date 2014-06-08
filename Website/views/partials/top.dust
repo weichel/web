@@ -1,0 +1,12 @@
+
+<script src="/js/topbar.js"></script>
+
+<section class='topbar'>
+
+	<div class='left'> </div>
+	
+	<div class='right'> </div>
+	
+	<div class='help'> </div>
+
+</section>
