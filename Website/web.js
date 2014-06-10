@@ -35,15 +35,18 @@ Web.prototype.init_http = function(port){
 	http.engine('dust', cons.dust);
 	http.set('views', __dirname + '/views');
 	http.set('view engine', 'dust');
-	http.use(bodyParser());
-	http.use(cookieParser());
 
-	var sessionStore = new mongoStore({ db : "Sessions" });
-	sessionStore.clear();
-	http.use(session({
-		store: sessionStore,
-		secret: "killamanjaro"
-	}));
+
+	var sessionStore = new mongoStore({ db : "Sessions" }, function(e){
+		http.use(bodyParser());
+		http.use(cookieParser());
+		http.use(session({
+			store: sessionStore,
+			secret: "killamanjaro"
+		}));	
+		sessionStore.clear();
+	});
+	
 	
 	/////////////////////////////////////////////////////Routes////////////////////////////////////////////////////////
 	///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
